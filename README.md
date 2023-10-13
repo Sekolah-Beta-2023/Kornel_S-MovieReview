@@ -1,4 +1,7 @@
-# aplikasi-nuxt
+# Movie Review
+Movie Web adalah aplikasi web yang memungkinkan pengguna menjelajahi, mencari, dan menemukan informasi tentang film. Ini menyediakan antarmuka yang ramah pengguna untuk menelusuri film berdasarkan genre, judul, dan kriteria lainnya. Proyek ini bertujuan untuk memberikan pengalaman yang lancar dan menyenangkan bagi para penggemar film.
+
+https://unique-granita-a9d7c9.netlify.app/
 
 ## Build Setup
 
